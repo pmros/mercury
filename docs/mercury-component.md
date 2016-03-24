@@ -37,7 +37,7 @@ A component also has events, this is similar to how you
 pass channels into a component in om except it's slightly
 less coupled.
 
-The events a component jas might be something like 
+The events a component has might be something like 
 "login button pressed", i.e. a component is saying 
 "I have a login button but have no idea how to handle login, 
 please listen to my event and mutate the correct state somewhere".
